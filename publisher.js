@@ -4,19 +4,12 @@ const oauth = require("oauth");
 const PUBLISHER_JSON_PATH = process.argv[2];
 const PUBLISHER_JSON_DATA = require(PUBLISHER_JSON_PATH);
 
-// const {
-//   TWITTER_API_KEY,
-//   TWITTER_API_SECRET,
-//   TWITTER_ACCESS_TOKEN,
-//   TWITTER_ACCESS_TOKEN_SECRET,
-// } = process.env;
-
-const TWITTER_ACCESS_TOKEN_SECRET =
-  "F6ehCSfq6aZNVTumkX2OQtn5AFCVxCTtRGXScBASwNhqz";
-const TWITTER_ACCESS_TOKEN =
-  "4870540745-oHmHARd9A2EwMC6I45R3sdDDxVqszmqaLTq6hjN";
-const TWITTER_API_KEY = "ycBwM7K4v7ZwIkXGvvgMd4oYG";
-const TWITTER_API_SECRET = "gkQx7Rfz3Q279TTnLNnmdNiupvbph3gMnakocdyHEwOxVeqyF9";
+const {
+  TWITTER_API_KEY,
+  TWITTER_API_SECRET,
+  TWITTER_ACCESS_TOKEN,
+  TWITTER_ACCESS_TOKEN_SECRET,
+} = process.env;
 
 const tweet = async (/** @type {string} */ text) => {
   const client = new oauth.OAuth(
