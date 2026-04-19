@@ -1,10 +1,5 @@
 [
   [
-    "Our goal is to help you make your life dramatically easier and enable business growth with IT expertise and integrated technology solutions. Learn more about the services we provide here:",
-    "",
-    "https://www.dtm.io/solutions/services/"
-  ],
-  [
     "Our developers live and breathe #technology! Our team is an expert in both #frontend and #backend development and has the skills necessary to bring your #project to life!",
     "",
     "https://www.dtm.io/solutions"
@@ -573,5 +568,10 @@
     "Our #design and #development process is taken care of exclusively by in-house employees, there is absolutely no offshore labor to ensure that you get nothing but the best quality and experience available for our #software development team!",
     "",
     "https://www.dtm.io/solutions/custom-teams/solutions-architect/"
+  ],
+  [
+    "Our goal is to help you make your life dramatically easier and enable business growth with IT expertise and integrated technology solutions. Learn more about the services we provide here:",
+    "",
+    "https://www.dtm.io/solutions/services/"
   ]
 ]
