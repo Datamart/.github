@@ -1,10 +1,5 @@
 [
   [
-    "The procedure to turn on read replicas instances within #Django is quite straight-forward. Furthermore, it helps to enhance the performance of the application as well as the overall system functioning. ",
-    "",
-    "https://www.dtm.io/articles/django-read-replica/"
-  ],
-  [
     "Now with so many options in hand, the big question still remains unanswered – which place is the best to choose from?",
     "",
     "https://medium.com/datamart/best-places-to-hire-remote-software-developers-f7db5e677fe2"
@@ -573,5 +568,10 @@
     "Translating an original #design into a functioning custom application takes expertise. That's where years of experience makes all the difference. Watch your #concepts become a reality, with the flexibility to adapt as your project becomes finished!",
     "",
     "https://www.dtm.io/solutions/"
+  ],
+  [
+    "The procedure to turn on read replicas instances within #Django is quite straight-forward. Furthermore, it helps to enhance the performance of the application as well as the overall system functioning. ",
+    "",
+    "https://www.dtm.io/articles/django-read-replica/"
   ]
 ]
